@@ -1,1 +1,6 @@
-document.write ("drink my piss");
+function DrinkPiss() {
+
+    var fontcolour = "white"
+    var string = "drink my piss"
+    document.getElementById("demo").innerHTML = result;
+}
