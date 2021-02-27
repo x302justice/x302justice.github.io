@@ -3,7 +3,9 @@ function myFunction() {
     var result = str.fontcolor("yellow");
     document.getElementById("demo").innerHTML = result;
     } 
+    
 function Alert() {
-    alert("A S S")
+    alert("A S S");
+    document.getElementById("myAudio").play();
     return 0;
     };
