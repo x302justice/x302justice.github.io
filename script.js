@@ -5,7 +5,7 @@ function myFunction() {
     } 
     
 function Alert() {
-    alert("A S S");
     document.getElementById("myAudio").play();
+    alert("A S S");
     return 0;
     };
