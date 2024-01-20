@@ -72,7 +72,7 @@ li.dropdown {
 
 #C1 {
   padding-left: 10%;
-  padding-bottom: 45%;
+  padding-bottom: 40%;
   padding-right: 10%;
 }
 
@@ -88,6 +88,11 @@ li.dropdown {
 .C1H1 {
   text-align: center;
 }
+
+.C1T1 {
+  padding-left: 12px;
+  font-size: 26px;
+  }
 
 .C2T1 {
   padding-left: 15%;
